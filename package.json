@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArianaNieto/delilah.git" 
+    "url": "" 
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArianaNieto/delilah/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ArianaNieto/delilah#readme",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "body-parser": "^1.19.0",
